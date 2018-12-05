@@ -363,5 +363,12 @@
     }
   ],
   "hotAndroidDevices": ["samsung_GT-I9505", "samsung_GT-I9500", "samsung_GT-I9505G", "Verizon_SCH-I545"],
-  "blacklistedMvpdIds": ["tds_auth-gateway_net"]
+  "blacklistedMvpdIds": ["tds_auth-gateway_net"],
+  "players": [
+    {
+      "mvpdId": "DTV",
+      "name": "DIRECTV",
+      "playerId": "1c015f18fed04e66b620077b5bc51981"
+    }
+  ]
 }
