@@ -369,6 +369,223 @@
       "mvpdId": "DTV",
       "name": "DIRECTV",
       "playerId": "1c015f18fed04e66b620077b5bc51981"
-    }
+    },{
+	"mvpdId": "nttcwhi010",
+	"playerId": "8e2ac8a2c3324fa19b05a5d8262b5c42",
+	"name": "Whidbey Telecom"
+}, {
+	"mvpdId": "cit270",
+	"playerId": "3b757c1a0ef44263bb379efeac8adabe",
+	"name": "Citynet"
+}, {
+	"mvpdId": "4comcsn010",
+	"playerId": "d155df65af634ed28aa7155ec217588f",
+	"name": "Cable Systems"
+}, {
+	"mvpdId": "min030",
+	"playerId": "4749924130674064baae5980aa8d74ba",
+	"name": "MINET"
+}, {
+	"mvpdId": "rrc010",
+	"playerId": "3fbe415cdf234411a7740fbe8e18aa49",
+	"name": "Inland Networks"
+}, {
+	"mvpdId": "auth_cableone_net",
+	"playerId": "be3580c7fa0148c99e62b543def6c9d7",
+	"name": "Cable ONE"
+}, {
+	"mvpdId": "com140",
+	"playerId": "24d6c7db077f431da1dffa0782addd2d",
+	"name": "Access Montana"
+}, {
+	"mvpdId": "emerytelcom",
+	"playerId": "4e73aec1d68a48e38c4c4b3bab2d6308",
+	"name": "Emery Telcom Video LLC"
+}, {
+	"mvpdId": "ind070",
+	"playerId": "c44b15b9ad1e4c75a7101a6af3646301",
+	"name": "Industry I-Net"
+}, {
+	"mvpdId": "ATT",
+	"playerId": "a556da7d6ef74de9974a11809f4d3847",
+	"name": "AT&T U-verse"
+}, {
+	"mvpdId": "ada020",
+	"playerId": "382bd1a4eed7447fb7c0ecd261d9cfdb",
+	"name": "Adams Cable Service"
+}, {
+	"mvpdId": "midrivers",
+	"playerId": "387cba4ead87410e959abe063d334ea3",
+	"name": "Mid-Rivers Communications"
+}, {
+	"mvpdId": "consolidated_auth-gateway_net",
+	"playerId": "ffcc8c295a8847c0a3f1108a4c3550b9",
+	"name": "Consolidated Communications"
+}, {
+	"mvpdId": "auth_metrocast_net",
+	"playerId": "7977d0f912644a9c9b22b1b69a5ca329",
+	"name": "MetroCast"
+}, {
+	"mvpdId": "wir025",
+	"playerId": "496536ae74ed48d8bff6a9de6b9415e1",
+	"name": "Wire Tele-View Corp"
+}, {
+	"mvpdId": "mid030",
+	"playerId": "bc87626a2a4a42b89259da3f76fd963c",
+	"name": "enTouch"
+}, {
+	"mvpdId": "mid055",
+	"playerId": "d44180814580423ba99d40ddb0506aa0",
+	"name": "Cobalt TV (Mid-State Community TV)"
+}, {
+	"mvpdId": "auth_armstrongmywire_com",
+	"playerId": "35a3297731ca491983edff6b74f3d25a",
+	"name": "Armstrong"
+}, {
+	"mvpdId": "pro035",
+	"playerId": "55bd1573cedc4b7bbaa0a2aa9a7f2f60",
+	"name": "PMT"
+}, {
+	"mvpdId": "ven030",
+	"playerId": "d2f567c48edf4439b8841fef2ed087a9",
+	"name": "Venus Telephone Corp"
+}, {
+	"mvpdId": "www_websso_mybrctv_com",
+	"playerId": "3c53ddf13a5c40ca8676b8ca8cb58ac6",
+	"name": "Blue Ridge Communications"
+}, {
+	"mvpdId": "lau020",
+	"playerId": "354ce9deb6de4841a7d2c76a664034be",
+	"name": "LHTC Broadband"
+}, {
+	"mvpdId": "tel095",
+	"playerId": "4915a32d25d34966b80bf6fb165d73ed",
+	"name": "Beaver Creek Cooperative Telephone"
+}, {
+	"mvpdId": "nem010",
+	"playerId": "ade2ad93c027430fbde32c7923b2731d",
+	"name": "Nemont"
+}, {
+	"mvpdId": "ser030",
+	"playerId": "88ec36cf2c5d434ea54384eb4b35d68e",
+	"name": "Service Electric Cable TV and Communications"
+}, {
+	"mvpdId": "man060",
+	"playerId": "3b1b4586acfc435a9db42e75c1446bba",
+	"name": "MTCC"
+}, {
+	"mvpdId": "hoodcanal",
+	"playerId": "820c2d2af4e34e80aeaea4980396f199",
+	"name": "Hood Canal Communications"
+}, {
+	"mvpdId": "all070",
+	"playerId": "292b2404d00d4973ae5c2c6592931b19",
+	"name": "ALLO Communications"
+}, {
+	"mvpdId": "tct",
+	"playerId": "6baaa32bdc8a44be967bdf70e7e16e2d",
+	"name": "TCT"
+}, {
+	"mvpdId": "cle020",
+	"playerId": "5a5b401c76ec43d8bbb6cbbe12338e97",
+	"name": "Clear Creek Communications"
+}, {
+	"mvpdId": "cen100",
+	"playerId": "e8e87ec15d9f4a5fad6f14a58ce354a1",
+	"name": "CentraCom"
+}, {
+	"mvpdId": "thr030",
+	"playerId": "c20c701962d844dd9f38b7ee0fb30d45",
+	"name": "3 Rivers Communications"
+}, {
+	"mvpdId": "bea020",
+	"playerId": "9c7de1e24ae549de9e960e465126745f",
+	"name": "Beaver Valley Cable"
+}, {
+	"mvpdId": "canbytel",
+	"playerId": "bb942d9e32634e7a96dd5fc3cb4bb2c1",
+	"name": "EZVideo"
+}, {
+	"mvpdId": "fal010",
+	"playerId": "9ace5df357e14f59ad5c78970b79c7de",
+	"name": "StratusIQ"
+}, {
+	"mvpdId": "goldenwest",
+	"playerId": "a31a58d7a5e4484f94d24cf2521f314a",
+	"name": "Golden West Cablevision"
+}, {
+	"mvpdId": "uin010",
+	"playerId": "f390e35119ba4e67b028759ad29ba9f0",
+	"name": "STRATA Networks"
+}, {
+	"mvpdId": "kpu010",
+	"playerId": "1c421c0bc12243a7abc6b26b99015765",
+	"name": "KPU Telecommunications"
+}, {
+	"mvpdId": "cab180",
+	"playerId": "3974a80b9109458f9d8c50d3d1d3b204",
+	"name": "RTC \u0096 Rye Telephone Company"
+}, {
+	"mvpdId": "nttchar010",
+	"playerId": "9ecc73a31ec94effbed751de4bff6f57",
+	"name": "Hardy Telecommunications, Inc."
+}, {
+	"mvpdId": "cou060",
+	"playerId": "20c2a34204f044b9a4cfed0ad25c5164",
+	"name": "Zito Media"
+}, {
+	"mvpdId": "auth_atlanticbb_net",
+	"playerId": "8e3592b3dd2547a2896ed4c6064488ca",
+	"name": "Atlantic Broadband"
+}, {
+	"mvpdId": "vel020",
+	"playerId": "60cc3ebd8a5448aa9e8a253fa487eb74",
+	"name": "VNET Fiber"
+}, {
+	"mvpdId": "serviceelectric_auth-gateway_net",
+	"playerId": "dd39017799634ce4b5cac32b7489c13e",
+	"name": "Service Electric Cablevision"
+}, {
+	"mvpdId": "htc020",
+	"playerId": "1cb15998ec841229eb964294ce12cc2",
+	"name": "Hickory Telephone Company"
+}, {
+	"mvpdId": "nor030",
+	"playerId": "a43258fbdbb9456393e3892f8f7ed1ec",
+	"name": "Northland Communications"
+}, {
+	"mvpdId": "cit040",
+	"playerId": "1b3fa967512d4d539bf4450b612c5c99",
+	"name": "Citizens Fiber"
+}, {
+	"mvpdId": "kuh010",
+	"playerId": "e92ae85215f40e8918c966257f4f9f4",
+	"name": "Kuhn Communications, Inc."
+}, {
+	"mvpdId": "spa020",
+	"playerId": "99cb412f5a5c465982eace233958e9a0",
+	"name": "Spanish Fork Community Network"
+}, {
+	"mvpdId": "loc010",
+	"playerId": "27082caec7bc415bb2d9fe02b6ed97cf",
+	"name": "LocalTel Communications"
+}, {
+	"mvpdId": "qco010",
+	"playerId": "5fb44b617ece40b5b77073841a0a4943",
+	"name": "QCOL"
+}, {
+	"mvpdId": "bci010-02",
+	"playerId": "5f5a8f6e8d74931a803046c4c939f09",
+	"name": "Vyve Broadband"
+}, {
+	"mvpdId": "rai030",
+	"playerId": "317714753ace45519591088247875742",
+	"name": "Rainier Connect"
+}, {
+	"mvpdId": "allwest",
+	"playerId": "a0e97a6be82a41c4a21662afb37b7fd7",
+	"name": "All West Communications"
+}
+	  
   ]
 }
