@@ -19,16 +19,29 @@
      "mvpd" : "consolidated_auth-gateway_net",
      "billing_zip" : "75168",
      "device_zip" : "75167",
-     "comments" : "ccitve18"
+     "comments" : "ccitve18, southwest"
     },
     {     
      "user_session_guid" : "36eb6fd887d94451e5c344b5005afee1",
      "mvpd" : "auth_atlanticbb_net",
+     "billing_zip" : "17266",
+     "device_zip" : "17266",
+     "comments" : "this is for tvetest1000@atlanticbb.net, pittsburg"
+    },
+    {
+    "user_session_guid":"8f82567b2b6e4155550e1e23686cf493",
+     "mvpd" : "DTV",
      "billing_zip" : "87151",
      "device_zip" : "87151",
-     "comments" : "this is for tvetest1000@atlanticbb.net"
-}
-    
+     "comments" : "this is for asrmd@directv.com, rocky mountain"
+    },
+    {
+    "user_session_guid":"ebbf5571f18afc71965068799a896ed6",
+     "mvpd" : "DTV",
+     "billing_zip" : "99137",
+     "device_zip" : "99137",
+     "comments" : "this is for asrmu@directv.com, northwest"
+    }
 ]
 
 
