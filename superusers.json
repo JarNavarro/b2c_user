@@ -41,6 +41,13 @@
      "billing_zip" : "99137",
      "device_zip" : "99137",
      "comments" : "this is for asrmu@directv.com, northwest"
+    },
+    {
+    "user_session_guid":"c873d2505a23d712bc39faf13a5a134b",
+    "mvpd" : "DTV",
+    "billing_zip" : "99137",
+    "device_zip" : "99137",
+    "comments" : "this is for rsswhd@directv.com, northwest"
     }
 ]
 
