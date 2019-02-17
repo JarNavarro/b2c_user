@@ -36,6 +36,13 @@
      "comments" : "this is for asrmd@directv.com, rocky mountain"
     },
     {
+    "user_session_guid":"5014d1b9ba11225d4d1719a05216255f",
+     "mvpd" : "TCT",
+     "billing_zip" : "87151",
+     "device_zip" : "87151",
+     "comments" : "this is for root_rm11@wtve.net, rocky mountain"
+    },
+    {
     "user_session_guid":"ebbf5571f18afc71965068799a896ed6",
      "mvpd" : "DTV",
      "billing_zip" : "99137",
