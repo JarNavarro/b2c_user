@@ -363,7 +363,7 @@
     }
   ],
   "hotAndroidDevices": ["samsung_GT-I9505", "samsung_GT-I9500", "samsung_GT-I9505G", "Verizon_SCH-I545"],
-  "blacklistedMvpdIds": ["tds_auth-gateway_net"],
+  "blacklistedMvpdIds": ["tds_auth-gateway_net","cas"],
   "players": [
     {
       "mvpdId": "DTV",
@@ -585,6 +585,10 @@
 	"mvpdId": "allwest",
 	"playerId": "a0e97a6be82a41c4a21662afb37b7fd7",
 	"name": "All West Communications"
+}, {
+	"mvpdId": "cas",
+	"playerId": "73d9be06436449b0acf92e429e776521",
+	"name": "CAS Cable"
 }
 	  
   ]
