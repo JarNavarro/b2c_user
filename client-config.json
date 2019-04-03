@@ -363,7 +363,7 @@
     }
   ],
   "hotAndroidDevices": ["samsung_GT-I9505", "samsung_GT-I9500", "samsung_GT-I9505G", "Verizon_SCH-I545"],
-  "blacklistedMvpdIds": ["tds_auth-gateway_net","cas"],
+  "blacklistedMvpdIds": ["tds_auth-gateway_net","eagle"],
   "players": [
     {
       "mvpdId": "DTV",
@@ -589,6 +589,10 @@
 	"mvpdId": "cas",
 	"playerId": "73d9be06436449b0acf92e429e776521",
 	"name": "CAS Cable"
+}, {
+	"mvpdId": "eagle",
+	"playerId": "b490801fdb0846c4ac77a6e50bb0812f",
+	"name": "Eagle Communications"
 }
 	  
   ]
