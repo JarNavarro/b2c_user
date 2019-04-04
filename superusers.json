@@ -62,7 +62,29 @@
     "billing_zip" : "97045",
     "device_zip" : "97045",
     "comments" : "this is for root_nw76@wtve.net, northwest"
+    },    
+    {
+    "user_session_guid":"c9b03c28bfdc54eb1a706ccbc17cbc17",
+    "mvpd" : "cit270",
+    "billing_zip" : "26416",
+    "device_zip" : "26416",
+    "comments" : "this is for root_pt51@wtve.net, PT"
+    },
+    {
+    "user_session_guid":"4493bb8924d0f094dde93bc76e97cc42",
+    "mvpd" : "emerytelcom",
+    "billing_zip" : "84511",
+    "device_zip" : "84511",
+    "comments" : "this is for root_rm56@wtve.net, RM"
+    },
+    {
+    "user_session_guid":"977f57b01d1c99d4e5a187dee4653090",
+    "mvpd" : "nem010",
+    "billing_zip" : "59201",
+    "device_zip" : "59201",
+    "comments" : "this is for root_nw66@wtve.net, NW"
     }
+    
 ]
 
 
