@@ -83,6 +83,13 @@
     "billing_zip" : "59201",
     "device_zip" : "59201",
     "comments" : "this is for root_nw66@wtve.net, NW"
+    },
+    {
+    "user_session_guid":"ee98222765734c4c621d435503dfa60f",
+    "mvpd" : "ind070",
+    "billing_zip" : "78944",
+    "device_zip" : "78944",
+    "comments" : "this is for root_sw05@wtve.net, NW"
     }
     
 ]
