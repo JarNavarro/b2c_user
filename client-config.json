@@ -363,7 +363,7 @@
     }
   ],
   "hotAndroidDevices": ["samsung_GT-I9505", "samsung_GT-I9500", "samsung_GT-I9505G", "Verizon_SCH-I545"],
-  "blacklistedMvpdIds": ["tds_auth-gateway_net"],
+  "blacklistedMvpdIds": ["tds_auth-gateway_net","ele020"],
   "players": [
     {
       "mvpdId": "DTV",
@@ -597,6 +597,10 @@
 	"mvpdId": "cla050",
 	"playerId": "b0bf58d00bbf4c60a10d319f21f25629",
 	"name": "Vast Broadband"
+}, {
+	"mvpdId": "ele020",
+	"playerId": "43b84038bd5e4867b1d4cb803e8cccf4",
+	"name": "Elevate Fiber"
 }
 	  
   ]
