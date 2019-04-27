@@ -363,7 +363,7 @@
     }
   ],
   "hotAndroidDevices": ["samsung_GT-I9505", "samsung_GT-I9500", "samsung_GT-I9505G", "Verizon_SCH-I545"],
-  "blacklistedMvpdIds": ["tds_auth-gateway_net"],
+  "blacklistedMvpdIds": ["tds_auth-gateway_net", "stj015"],
   "players": [
     {
       "mvpdId": "DTV",
@@ -601,7 +601,12 @@
 	"mvpdId": "ele020",
 	"playerId": "43b84038bd5e4867b1d4cb803e8cccf4",
 	"name": "Elevate Fiber"
+}, {
+	"mvpdId": "stj015",
+	"playerId": "d9c722e8704f434681c530c67a95c1ee",
+	"name": "St John Cable Company"
 }
+
 	  
   ]
 }
