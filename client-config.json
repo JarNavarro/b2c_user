@@ -363,7 +363,7 @@
     }
   ],
   "hotAndroidDevices": ["samsung_GT-I9505", "samsung_GT-I9500", "samsung_GT-I9505G", "Verizon_SCH-I545"],
-  "blacklistedMvpdIds": ["tds_auth-gateway_net"],
+  "blacklistedMvpdIds": ["tds_auth-gateway_net"," Suddenlink"],
   "players": [
     {
       "mvpdId": "DTV",
@@ -605,6 +605,10 @@
 	"mvpdId": "stj015",
 	"playerId": "d9c722e8704f434681c530c67a95c1ee",
 	"name": "St John Cable Company"
+}, {
+	"mvpdId": " Suddenlink",
+	"playerId": "2ec30207fac3432c9614857c7907d6c1",
+	"name": "Suddenlink"
 }
 
 	  
