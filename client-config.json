@@ -363,7 +363,7 @@
     }
   ],
   "hotAndroidDevices": ["samsung_GT-I9505", "samsung_GT-I9500", "samsung_GT-I9505G", "Verizon_SCH-I545"],
-  "blacklistedMvpdIds": [],
+  "blacklistedMvpdIds": ["auth_centurylink_net"],
   "players": [
     {
       "mvpdId": "DTV",
@@ -617,6 +617,10 @@
 	"mvpdId": "ATTSportsRM",
 	"playerId": "8b79b74f75254fbab215afa97457a53d",
 	"name": "ATTSPORTSNET"
+}, {
+	"mvpdId": "auth_centurylink_net",
+	"playerId": "541512b61e3f45a7b34ce025f8d774b8",
+	"name": "CenturyLink Prism"
 }
 
 	  
