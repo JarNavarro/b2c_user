@@ -90,6 +90,13 @@
     "billing_zip" : "78944",
     "device_zip" : "78944",
     "comments" : "this is for root_sw05@wtve.net, NW"
+    },
+    {
+    "user_session_guid":"13029c002caad0b8ce27932a9c2e8227",
+    "mvpd" : "ATT",
+    "billing_zip" : "77536",
+    "device_zip" : "77536",
+    "comments" : "this is for 1attplaza277@att.net, TX"
     }
     
 ]
