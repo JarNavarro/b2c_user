@@ -363,7 +363,7 @@
     }
   ],
   "hotAndroidDevices": ["samsung_GT-I9505", "samsung_GT-I9500", "samsung_GT-I9505G", "Verizon_SCH-I545"],
-  "blacklistedMvpdIds": ["windstreamtv_auth-gateway_net"],
+  "blacklistedMvpdIds": ["windstreamtv_auth-gateway_net", "Bend"],
   "players": [
     {
       "mvpdId": "DTV",
@@ -625,6 +625,10 @@
 	"mvpdId": "windstreamtv_auth-gateway_net",
 	"playerId": "3e7535aa9b02477abae20f102cd379f9",
 	"name": "Windstream Kinetic TV"
+}, {
+	"mvpdId": "Bend",
+	"playerId": "b846608e183a49a0ba01652d05c3ace7",
+	"name": "BendBroadband"
 }
 
 	  
