@@ -363,7 +363,7 @@
     }
   ],
   "hotAndroidDevices": ["samsung_GT-I9505", "samsung_GT-I9500", "samsung_GT-I9505G", "Verizon_SCH-I545"],
-  "blacklistedMvpdIds": ["windstreamtv_auth-gateway_net", "Bend"],
+  "blacklistedMvpdIds": ["windstreamtv_auth-gateway_net", "Bend","you010"],
   "players": [
     {
       "mvpdId": "DTV",
@@ -629,8 +629,10 @@
 	"mvpdId": "Bend",
 	"playerId": "b846608e183a49a0ba01652d05c3ace7",
 	"name": "BendBroadband"
-}
-
-	  
+}, {
+	"mvpdId": "you010",
+	"playerId": "3f7962a5a5f143798ba887edfbbc3ac8",
+	"name": "Youngsville Television"
+}	  
   ]
 }
